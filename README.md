@@ -122,7 +122,7 @@ Path to HA configuration.yaml
 To create a new Proxmox ESPHome LXC Container, run the following from Proxmox web shell.
 
 ```
-bash -c "$(wget -qLO - https://raw.githubusercontent.com/tteck/Proxmox/main/esphome_container.sh)"
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/MarkusFelix/Proxmox/refs/heads/main/esphome_container.sh)"
 ```
 
 <h3 align="center" id="heading">⚡ Default Settings:  1GB RAM - 4GB Storage - 2vCPU ⚡</h3>
